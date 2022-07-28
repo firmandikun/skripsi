@@ -7,6 +7,7 @@ pandas==1.4.3
 pickleshare==0.7.5
 Pillow==9.2.0
 requests==2.28.1
+Sastrawi==1.0.1
 scikit-learn==1.1.1
 scipy==1.8.1
 sklearn==0.0
